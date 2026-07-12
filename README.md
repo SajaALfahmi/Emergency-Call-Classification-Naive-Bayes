@@ -1,6 +1,6 @@
 # Emergency Call Classification using Naïve Bayes
 
-This project implements a **Bernoulli Naïve Bayes classifier** to categorize emergency calls into two priority levels (High Priority vs. Low Priority). The project was developed as part of a Machine Learning assignment.
+This project implements a **Bernoulli Naïve Bayes classifier** to categorize emergency calls into two priority levels (High Priority vs. Low Priority).
 
 ## Project Overview
 The core objective is to understand the mathematical foundations of the Naïve Bayes algorithm by implementing it from scratch and comparing the results with professional machine learning libraries.
@@ -12,14 +12,19 @@ The core objective is to understand the mathematical foundations of the Naïve B
 - **Model Evaluation:** Used 10-fold cross-validation to assess model performance.
 - **Data Visualization:** Analyzed feature impact using Matplotlib and Seaborn.
 
+## Documentation
+You can find the full mathematical derivation, manual calculations, and the detailed assignment report in the [PDF Report](Emergency Call Classification using a Naïve Bayes Classifier.pdf).
+
 ## Technologies Used
 - **Language:** Python
-- **Libraries:** - `pandas` & `numpy` (Data manipulation and calculations)
+- **Libraries:** 
+  - `pandas` & `numpy` (Data manipulation and calculations)
   - `scikit-learn` (Model verification and cross-validation)
   - `matplotlib` & `seaborn` (Visualization)
 
 ## Project Structure
-- `Naive_Bayes.ipynb`: The main Jupyter Notebook containing the full implementation and analysis.
+- `emergency_triage_analysis.ipynb`: The main Jupyter Notebook containing the full implementation and analysis.
+- `Emergency_Call_Classification_Assignment.pdf`: The detailed assignment report with manual calculations.
 - `emergency_triage_nb_train.csv`: Training dataset.
 - `emergency_triage_nb_queries.csv`: Query instances for testing.
 
