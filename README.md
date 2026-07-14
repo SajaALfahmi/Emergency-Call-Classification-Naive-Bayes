@@ -1,6 +1,6 @@
 # Emergency Call Classification using Naïve Bayes
 
-A machine learning project that classifies emergency calls into **High Priority** and **Low Priority** using the Bernoulli Naïve Bayes algorithm.
+A machine learning project that classifies emergency calls into **High Priority** and **Low Priority** using the Naïve Bayes algorithm.
 
 This project focuses on understanding the mathematical foundations of Naïve Bayes by implementing the algorithm from scratch and validating the results using the scikit-learn implementation.
 
