@@ -81,6 +81,4 @@ A detailed assignment report is included in this repository covering:
 ├── conditional_probability_line_plot.png
 ```
 ---
-
----
 *Created by Saja Alfahmi*
