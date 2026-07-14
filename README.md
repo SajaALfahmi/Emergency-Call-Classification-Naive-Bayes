@@ -37,13 +37,13 @@ The model achieved an average accuracy of approximately **56%** using **10-fold 
 
 ### Conditional Probability Bar Chart
 
-![Probability Bar Chart](probability_bar_chart.png)
+![Probability Bar Chart](probability bar chart.png)
 
 ---
 
 ### Conditional Probability Line Plot
 
-![Conditional Probability Line Plot](conditional_probability_line_plot.png)
+![Conditional Probability Line Plot](conditional probability line plot.png)
 
 ---
 
