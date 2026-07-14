@@ -1,4 +1,4 @@
-# Emergency Call Classification using Naïve Bayes
+# Emergency Call Classification using Bernoulli Naïve Bayes
 
 A machine learning project that classifies emergency calls into **High Priority** and **Low Priority** using the Bernoulli Naïve Bayes algorithm.
 
@@ -37,13 +37,13 @@ The model achieved an average accuracy of approximately **56%** using **10-fold 
 
 ### Conditional Probability Bar Chart
 
-![Probability Bar Chart](probability bar chart.png)
+![Probability Bar Chart](probability_bar_chart.png)
 
 ---
 
 ### Conditional Probability Line Plot
 
-![Conditional Probability Line Plot](conditional probability line plot.png)
+![Conditional Probability Line Plot](conditional_probability_line_plot.png)
 
 ---
 
@@ -80,6 +80,7 @@ A detailed assignment report is included in this repository covering:
 ├── probability_bar_chart.png
 ├── conditional_probability_line_plot.png
 ```
+---
 
 ---
 *Created by Saja Alfahmi*
